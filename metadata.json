@@ -1,0 +1,6 @@
+{
+  "name": "Prisma IA Modo Vector-OTC",
+  "description": "Traderoom profissional Prisma IA Modo Vector-OTC com painel flutuante cyber-verde Quotex Radar, motor Touros vs Ursos (≥92%), estratégia Multi-Timeframe 2M (Psicologia de Vela & Leitura de Pavios) com entrada em 1M, Auto-Scanner e Execução Automática na corretora.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
